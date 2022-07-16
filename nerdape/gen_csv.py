@@ -81,7 +81,7 @@ for token_id in ll:
             item[key] = v
             # collect attr stat
             if attr_score[idx].get(v) is None:
-                attr_score[idx][v] = 0
+                attr_score[idx][v] = 1
             else:
                 attr_score[idx][v] += 1
 
