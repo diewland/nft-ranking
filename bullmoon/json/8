@@ -1,0 +1,31 @@
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0008.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "common"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "woven sweater"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "night wing mask"
+      },
+      {
+         "trait_type": "skin",
+         "value": "metallic cyan"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "robin hood hat"
+      },
+      {
+         "trait_type": "special",
+         "value": "-"
+      }
+   ],
+   "name": "BullMoon #8",
+   "description": "BullMoon Club NFT"
+}

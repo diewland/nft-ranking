@@ -1,0 +1,31 @@
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0007.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "common"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "leather jacket"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "fancy mask 1"
+      },
+      {
+         "trait_type": "skin",
+         "value": "green"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "fin helmet"
+      },
+      {
+         "trait_type": "special",
+         "value": "-"
+      }
+   ],
+   "name": "BullMoon #7",
+   "description": "BullMoon Club NFT"
+}

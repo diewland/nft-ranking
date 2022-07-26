@@ -1,0 +1,31 @@
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0005.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "common"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "mountain jacket"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "star fancy glasses"
+      },
+      {
+         "trait_type": "skin",
+         "value": "metallic lavender"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "fisherman hat"
+      },
+      {
+         "trait_type": "special",
+         "value": "-"
+      }
+   ],
+   "name": "BullMoon #5",
+   "description": "BullMoon Club NFT"
+}

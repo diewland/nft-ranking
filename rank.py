@@ -20,6 +20,7 @@ CSV_FIELDS  = [
     F_URL,
     #..ATTRS
 ]
+DEFAULT_VALUE = '-'
 
 def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
     # prepare filename
@@ -52,7 +53,11 @@ def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
         item[F_URL] = '%s/%s' % (URL, token_id)
         item[F_SCORE] = None
         for idx, key in enumerate(ATTRS):
-            v = attr[idx]['value']
+            v = DEFAULT_VALUE
+            try:
+                v = attr[idx]['value']
+            except:
+                pass
             item[key] = v
             # collect attr stat
             if attr_score[idx].get(v) is None:

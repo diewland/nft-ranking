@@ -1,0 +1,31 @@
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0004.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "common"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "scotch shirt"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "hero mask"
+      },
+      {
+         "trait_type": "skin",
+         "value": "basil"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "black hair"
+      },
+      {
+         "trait_type": "special",
+         "value": "-"
+      }
+   ],
+   "name": "BullMoon #4",
+   "description": "BullMoon Club NFT"
+}

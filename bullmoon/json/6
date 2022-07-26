@@ -1,0 +1,31 @@
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0006.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "common"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "soccer jersey"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "classic glasses"
+      },
+      {
+         "trait_type": "skin",
+         "value": "blue"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "wizard hat"
+      },
+      {
+         "trait_type": "special",
+         "value": "soccer ball"
+      }
+   ],
+   "name": "BullMoon #6",
+   "description": "BullMoon Club NFT"
+}
