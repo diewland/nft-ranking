@@ -1,1 +1,31 @@
-{"image": "https://www.bullmoonnft.com/collection1/img/hiding.jpg", "attributes": [{"trait_type": "class", "value": "unknown"}], "name": "BullMoon #99", "description": "BullMoon Club NFT"}
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0099.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "rare"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "clown suit"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "laser safety"
+      },
+      {
+         "trait_type": "skin",
+         "value": "pink"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "lavender hair"
+      },
+      {
+         "trait_type": "special",
+         "value": "clown locket"
+      }
+   ],
+   "name": "BullMoon #99",
+   "description": "BullMoon Club NFT"
+}

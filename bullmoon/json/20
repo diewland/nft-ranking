@@ -1,1 +1,31 @@
-{"image": "https://www.bullmoonnft.com/collection1/img/hiding.jpg", "attributes": [{"trait_type": "class", "value": "unknown"}], "name": "BullMoon #20", "description": "BullMoon Club NFT"}
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0020.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "common"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "silver hoodie"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "carnival mask 1"
+      },
+      {
+         "trait_type": "skin",
+         "value": "orange"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "fisherman hat"
+      },
+      {
+         "trait_type": "special",
+         "value": "-"
+      }
+   ],
+   "name": "BullMoon #20",
+   "description": "BullMoon Club NFT"
+}
