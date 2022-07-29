@@ -1,5 +1,5 @@
 {
-   "image": "https://www.bullmoonnft.com/collection1/img/rare_wait.jpg",
+   "image": "https://www.bullmoonnft.com/collection1/img/0174.jpg",
    "attributes": [
       {
          "trait_type": "class",
@@ -7,23 +7,23 @@
       },
       {
          "trait_type": "outfit",
-         "value": ""
+         "value": "armored escort set"
       },
       {
          "trait_type": "eyewear",
-         "value": ""
+         "value": "armored escort set"
       },
       {
          "trait_type": "skin",
-         "value": ""
+         "value": "blue"
       },
       {
          "trait_type": "headwear",
-         "value": ""
+         "value": "armored escort set"
       },
       {
          "trait_type": "special",
-         "value": "-"
+         "value": "armored escort set"
       }
    ],
    "name": "BullMoon #174",
