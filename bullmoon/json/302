@@ -1,31 +1,31 @@
 {
-   "image": "https://www.bullmoonnft.com/collection1/img/rare_wait.jpg",
+   "image": "https://www.bullmoonnft.com/collection1/img/0302.jpg",
    "attributes": [
       {
          "trait_type": "class",
-         "value": "rare"
+         "value": "superrare"
       },
       {
          "trait_type": "outfit",
-         "value": ""
+         "value": "black armor set"
       },
       {
          "trait_type": "eyewear",
-         "value": ""
+         "value": "black armor set"
       },
       {
          "trait_type": "skin",
-         "value": ""
+         "value": "red"
       },
       {
          "trait_type": "headwear",
-         "value": ""
+         "value": "black armor set"
       },
       {
          "trait_type": "special",
-         "value": "-"
+         "value": "black armor set"
       }
    ],
-   "name": "BullMoon #290",
+   "name": "BullMoon #302",
    "description": "BullMoon Club NFT"
 }
