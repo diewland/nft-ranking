@@ -1,4 +1,4 @@
-import os, json
+import os, sys, json
 from pprint import pprint as pp
 
 # launchpad
@@ -12,6 +12,11 @@ F_NAME      = 'name'
 F_RANK      = 'rank'
 F_SCORE     = 'score'
 F_URL       = 'link'
+F_MOVEMENT  = '📈'
+ICO_UP      = '🟢'
+ICO_DOWN    = '🔴'
+ICO_SAME    = '🔵'
+ICO_NEW     = '🟡'
 CSV_FIELDS  = [
     F_RANK,
     #F_TOKEN,
@@ -21,6 +26,28 @@ CSV_FIELDS  = [
     #..ATTRS
 ]
 DEFAULT_VALUE = '-'
+
+# detect compare_path
+compare_path = None
+compare_data = {}
+if len(sys.argv) > 1:
+    compare_path = sys.argv[1]
+if compare_path != None:
+    # inject movement field
+    CSV_FIELDS[1:1] = [ F_MOVEMENT ]
+    # prepare compare data
+    c_file = open(compare_path, mode='r')
+    c_lines = [ l.strip() for l in c_file.readlines() ]
+    c_lines.pop(0) # rm header
+    c_file.close()
+    for l in c_lines:
+        c_data = l.split(SEP)
+        c_rank = int(c_data[0])
+        try: # same format
+            c_token_id = int(c_data[2].split('#')[1])
+        except: # convert
+            c_token_id = int(c_data[1].split('#')[1])
+        compare_data[c_token_id] = c_rank
 
 def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
     # prepare filename
@@ -93,9 +120,24 @@ def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
             cur_rank = idx + 1
             prev_score = cur_score
             prev_rank = cur_rank
-            item[F_RANK] = cur_rank
-        else:
-            item[F_RANK] = cur_rank
+        # update rank
+        item[F_RANK] = cur_rank
+        # update movement
+        if compare_path != None:
+            movement = ICO_NEW
+            token_id = item[F_TOKEN]
+            prev_rank = compare_data.get(token_id)
+            if prev_rank is None:
+                pass
+            elif cur_rank < prev_rank:
+                movement = '%s+%s' % (ICO_UP, prev_rank-cur_rank)
+            elif cur_rank > prev_rank:
+                movement = '%s-%s' % (ICO_DOWN, cur_rank-prev_rank)
+            elif cur_rank == prev_rank:
+                movement = ICO_SAME
+            else:
+                raise Exception('invalid data (%s, %s)' % (prev_rank, cur_rank))
+            item[F_MOVEMENT] = movement
 
     # print csv
     print(SEP.join(CSV_FIELDS))
