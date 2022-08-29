@@ -63,6 +63,11 @@ def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
     items = []
     attr_score = [{} for x in range(len(ATTRS))]
 
+    # make attr mapping
+    attr_mapping = {}
+    for idx, attr in enumerate(ATTRS):
+        attr_mapping[attr] = idx
+
     # fill basic attributes
     for token_id in ll:
         data = None
@@ -79,12 +84,10 @@ def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
         item[F_NAME] = name
         item[F_URL] = '%s/%s' % (URL, token_id)
         item[F_SCORE] = None
-        for idx, key in enumerate(ATTRS):
-            v = DEFAULT_VALUE
-            try:
-                v = attr[idx]['value']
-            except:
-                pass
+        for trait in attr:
+            key = trait['trait_type']
+            v = trait['value']
+            idx = attr_mapping[key]
             item[key] = v
             # collect attr stat
             if attr_score[idx].get(v) is None:
@@ -103,8 +106,11 @@ def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
             continue
         # calc score from attributes
         score = 0
-        for idx, key in enumerate(ATTRS):
-            attr = item[key]
+        for key in ATTRS:
+            attr = item.get(key)
+            if attr is None:
+                continue
+            idx = attr_mapping[key]
             div = attr_score[idx][attr]
             score += item_size / div
         item[F_SCORE] = score
