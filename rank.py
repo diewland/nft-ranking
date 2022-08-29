@@ -82,7 +82,10 @@ def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
         item = {}
         item[F_TOKEN] = token_id
         item[F_NAME] = name
-        item[F_URL] = '%s/%s' % (URL, token_id)
+        if URL.find("{}") > -1:
+            item[F_URL] = URL.format(token_id)
+        else:
+            item[F_URL] = '%s/%s' % (URL, token_id)
         item[F_SCORE] = None
         for trait in attr:
             key = trait['trait_type']
