@@ -1,4 +1,4 @@
-import os, sys, json
+import os, sys, json, glob
 from pprint import pprint as pp
 
 # launchpad
@@ -7,11 +7,11 @@ LP_SPEEDBOAT = 'speedboat'
 
 # config
 SEP         = '|'
-F_TOKEN     = 'token_id'
-F_NAME      = 'name'
-F_RANK      = 'rank'
-F_SCORE     = 'score'
-F_URL       = 'link'
+F_TOKEN     = '_token_id'
+F_NAME      = '_name'
+F_RANK      = '_rank'
+F_SCORE     = '_score'
+F_URL       = '_link'
 F_MOVEMENT  = '📈'
 ICO_UP      = '🟢'
 ICO_DOWN    = '🔴'
@@ -154,3 +154,22 @@ def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
         row = [ item.get(k) or '' for k in CSV_FIELDS ]
         row = [ str(r) for r in row  ]
         print(SEP.join(row))
+
+def rank2(URL, launchpad=LP_QUIXOTIC):
+    # resolve all traits
+    tt = []
+    for f in glob.glob("json/*"):
+        try:
+            data = json.load(open(f))
+            for t in data['attributes']:
+                tt += [ str(t['trait_type']) ]
+        except:
+            print("skip {}".format(f))
+    tt = list(set(tt))
+
+    # update csv fields
+    global CSV_FIELDS
+    CSV_FIELDS += tt
+
+    # calculate rank
+    rank(URL, tt, launchpad)
