@@ -1,1 +1,31 @@
-{"image": "https://www.bullmoonnft.com/collection1/img/hiding.jpg", "attributes": [{"trait_type": "class", "value": "unknown"}], "name": "BullMoon #947", "description": "BullMoon Club NFT"}
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/0947.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "superrare"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "devil armor set"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "devil armor set"
+      },
+      {
+         "trait_type": "skin",
+         "value": "red"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "devil armor set"
+      },
+      {
+         "trait_type": "special",
+         "value": "devil armor set"
+      }
+   ],
+   "name": "BullMoon #947",
+   "description": "BullMoon Club NFT"
+}

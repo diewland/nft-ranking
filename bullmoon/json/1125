@@ -1,1 +1,31 @@
-{"image": "https://www.bullmoonnft.com/collection1/img/hiding.jpg", "attributes": [{"trait_type": "class", "value": "unknown"}], "name": "BullMoon #1125", "description": "BullMoon Club NFT"}
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/1125.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "rare"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "extra 1"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "sci-fi 1"
+      },
+      {
+         "trait_type": "skin",
+         "value": "black"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "leather hat"
+      },
+      {
+         "trait_type": "special",
+         "value": "jetpack"
+      }
+   ],
+   "name": "BullMoon #1125",
+   "description": "BullMoon Club NFT"
+}

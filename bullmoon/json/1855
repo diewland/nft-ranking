@@ -1,0 +1,31 @@
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/1855.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "rare"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "polo t-shirt"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "-"
+      },
+      {
+         "trait_type": "skin",
+         "value": "yellow"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "bunny ears"
+      },
+      {
+         "trait_type": "special",
+         "value": "golf bag"
+      }
+   ],
+   "name": "BullMoon #1855",
+   "description": "BullMoon Club NFT"
+}

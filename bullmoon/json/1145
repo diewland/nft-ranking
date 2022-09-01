@@ -1,1 +1,31 @@
-{"image": "https://www.bullmoonnft.com/collection1/img/hiding.jpg", "attributes": [{"trait_type": "class", "value": "unknown"}], "name": "BullMoon #1145", "description": "BullMoon Club NFT"}
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/1145.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "superrare"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "chartreuse armor set"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "chartreuse armor set"
+      },
+      {
+         "trait_type": "skin",
+         "value": "gray"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "chartreuse armor set"
+      },
+      {
+         "trait_type": "special",
+         "value": "chartreuse armor set"
+      }
+   ],
+   "name": "BullMoon #1145",
+   "description": "BullMoon Club NFT"
+}

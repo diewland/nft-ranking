@@ -1,0 +1,31 @@
+{
+   "image": "https://www.bullmoonnft.com/collection1/img/1831.jpg",
+   "attributes": [
+      {
+         "trait_type": "class",
+         "value": "rare"
+      },
+      {
+         "trait_type": "outfit",
+         "value": "armored escort set"
+      },
+      {
+         "trait_type": "eyewear",
+         "value": "sci-fi 2"
+      },
+      {
+         "trait_type": "skin",
+         "value": "pink"
+      },
+      {
+         "trait_type": "headwear",
+         "value": "leather hat"
+      },
+      {
+         "trait_type": "special",
+         "value": "armored escort set"
+      }
+   ],
+   "name": "BullMoon #1831",
+   "description": "BullMoon Club NFT"
+}
