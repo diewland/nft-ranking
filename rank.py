@@ -43,10 +43,16 @@ if compare_path != None:
     for l in c_lines:
         c_data = l.split(SEP)
         c_rank = int(c_data[0])
-        try: # same format
+        try: # get id from name, same format
             c_token_id = int(c_data[2].split('#')[1])
-        except: # convert
-            c_token_id = int(c_data[1].split('#')[1])
+        except:
+            try: # get id from name, convert format
+                c_token_id = int(c_data[1].split('#')[1])
+            except:
+                try: # get id from url, same format
+                    c_token_id = int(c_data[4].split('/')[-1])
+                except: # get id from url, convert format
+                    c_token_id = int(c_data[3].split('/')[-1])
         compare_data[c_token_id] = c_rank
 
 def rank(URL, ATTRS, launchpad=LP_QUIXOTIC):
@@ -164,8 +170,10 @@ def rank2(URL, launchpad=LP_QUIXOTIC):
             for t in data['attributes']:
                 tt += [ str(t['trait_type']) ]
         except:
-            print("skip {}".format(f))
+            #print("skip {}".format(f))
+            pass
     tt = list(set(tt))
+    tt = sorted(tt)
 
     # update csv fields
     global CSV_FIELDS

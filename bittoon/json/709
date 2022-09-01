@@ -1,11 +1,43 @@
 {
-   "image": "https://www.bittoondao.io/collection1/img/hiding.jpg",
+   "image": "https://www.bittoondao.io/collection1/img/0709.jpg",
    "attributes": [
       {
-         "trait_type": "class",
-         "value": "egg"
+         "trait_type": "texture",
+         "value": "Plastic"
+      },
+      {
+         "trait_type": "head",
+         "value": "Pumpkin Head"
+      },
+      {
+         "trait_type": "eye",
+         "value": "None"
+      },
+      {
+         "trait_type": "mouth",
+         "value": "None"
+      },
+      {
+         "trait_type": "clothing",
+         "value": "Leather Jacket"
+      },
+      {
+         "trait_type": "backdrop",
+         "value": "BitToon Flag"
+      },
+      {
+         "trait_type": "emotion",
+         "value": "None"
+      },
+      {
+         "trait_type": "color shade",
+         "value": "Scalet Bluie"
+      },
+      {
+         "trait_type": "house of",
+         "value": "Media"
       }
    ],
-   "name": "Bittoon DAO #709",
+   "name": "BitToonDAO #709",
    "description": "BitToon DAO is a project that is eager to achieve a new approach to NFT standards that not only responds to collector\u2019s highest expectations, we also focus on business and community collaboration. Through NFT and DAO (Decentralised Autonomous Organization) structure, we believe the project will create an impact to NFT space and a practical connection between the digital and physical (traditional) world."
 }
