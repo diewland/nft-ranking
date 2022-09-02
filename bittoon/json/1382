@@ -1,0 +1,43 @@
+{
+   "image": "https://www.bittoondao.io/collection1/img/1771.jpg",
+   "attributes": [
+      {
+         "trait_type": "texture",
+         "value": "Plastic"
+      },
+      {
+         "trait_type": "head",
+         "value": "Pirate Hat"
+      },
+      {
+         "trait_type": "eye",
+         "value": "Eye Pad"
+      },
+      {
+         "trait_type": "mouth",
+         "value": "None"
+      },
+      {
+         "trait_type": "clothing",
+         "value": "Oriental Uniform"
+      },
+      {
+         "trait_type": "backdrop",
+         "value": "None"
+      },
+      {
+         "trait_type": "emotion",
+         "value": "Blushy"
+      },
+      {
+         "trait_type": "color shade",
+         "value": "Morning Galaxie"
+      },
+      {
+         "trait_type": "house of",
+         "value": "Media"
+      }
+   ],
+   "name": "BitToonDAO #1382",
+   "description": "BitToon DAO is a project that is eager to achieve a new approach to NFT standards that not only responds to collector\u2019s highest expectations, we also focus on business and community collaboration. Through NFT and DAO (Decentralised Autonomous Organization) structure, we believe the project will create an impact to NFT space and a practical connection between the digital and physical (traditional) world."
+}

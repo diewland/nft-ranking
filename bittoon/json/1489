@@ -1,0 +1,43 @@
+{
+   "image": "https://www.bittoondao.io/collection1/img/1571.jpg",
+   "attributes": [
+      {
+         "trait_type": "texture",
+         "value": "Plastic"
+      },
+      {
+         "trait_type": "head",
+         "value": "Lovelove Headband"
+      },
+      {
+         "trait_type": "eye",
+         "value": "Eyeglasses"
+      },
+      {
+         "trait_type": "mouth",
+         "value": "Pacifier"
+      },
+      {
+         "trait_type": "clothing",
+         "value": "None"
+      },
+      {
+         "trait_type": "backdrop",
+         "value": "Double Chups"
+      },
+      {
+         "trait_type": "emotion",
+         "value": "None"
+      },
+      {
+         "trait_type": "color shade",
+         "value": "Autumn Lillie"
+      },
+      {
+         "trait_type": "house of",
+         "value": "Believer"
+      }
+   ],
+   "name": "BitToonDAO #1489",
+   "description": "BitToon DAO is a project that is eager to achieve a new approach to NFT standards that not only responds to collector\u2019s highest expectations, we also focus on business and community collaboration. Through NFT and DAO (Decentralised Autonomous Organization) structure, we believe the project will create an impact to NFT space and a practical connection between the digital and physical (traditional) world."
+}

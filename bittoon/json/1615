@@ -1,0 +1,43 @@
+{
+   "image": "https://www.bittoondao.io/collection1/img/1602.jpg",
+   "attributes": [
+      {
+         "trait_type": "texture",
+         "value": "Clay Dough"
+      },
+      {
+         "trait_type": "head",
+         "value": "Lovelove Headband"
+      },
+      {
+         "trait_type": "eye",
+         "value": "None"
+      },
+      {
+         "trait_type": "mouth",
+         "value": "Leather Mask"
+      },
+      {
+         "trait_type": "clothing",
+         "value": "Kid's Overalls"
+      },
+      {
+         "trait_type": "backdrop",
+         "value": "Angel Wings"
+      },
+      {
+         "trait_type": "emotion",
+         "value": "None"
+      },
+      {
+         "trait_type": "color shade",
+         "value": "Dusty Cyanie"
+      },
+      {
+         "trait_type": "house of",
+         "value": "Vampire"
+      }
+   ],
+   "name": "BitToonDAO #1615",
+   "description": "BitToon DAO is a project that is eager to achieve a new approach to NFT standards that not only responds to collector\u2019s highest expectations, we also focus on business and community collaboration. Through NFT and DAO (Decentralised Autonomous Organization) structure, we believe the project will create an impact to NFT space and a practical connection between the digital and physical (traditional) world."
+}
