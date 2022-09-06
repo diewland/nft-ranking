@@ -1,1 +1,17 @@
-ipfs block get Qmdqox6DJtirJFdY9nbwuDKMvprBgMrpE9MhNqaKXX8mZU: promise channel was closed
+{
+  "name": "Hyper Ghost #3360",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3360.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mediumslateblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (5)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

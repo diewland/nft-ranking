@@ -1,1 +1,17 @@
-ipfs block get QmcPx1QmjqadyvRLHtXts5QxGvor88Mawavfvod5RMPmz5: promise channel was closed
+{
+  "name": "Hyper Ghost #4525",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4525.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightskyblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Jackfruit Ghost (49)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
