@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #552",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/552.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deeppink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Jackfruit Ghost (1)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

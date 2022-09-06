@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1883",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1883.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightseagreen"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (98)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

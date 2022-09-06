@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1788",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1788.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cadetblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (46)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #2067",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/2067.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Skyblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (25)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

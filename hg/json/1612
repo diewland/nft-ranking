@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1612",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1612.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (20)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

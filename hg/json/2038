@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #2038",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/2038.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (88)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

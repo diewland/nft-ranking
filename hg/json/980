@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #980",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/980.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Chocolate"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (97)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

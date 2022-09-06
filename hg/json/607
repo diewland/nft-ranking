@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #607",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/607.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yelllow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (53)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

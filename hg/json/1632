@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1632",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1632.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mediumslateblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (64)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

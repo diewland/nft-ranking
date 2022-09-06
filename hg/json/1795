@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1795",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1795.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightpink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (47)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

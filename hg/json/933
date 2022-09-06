@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #933",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/933.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tomato"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (66)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

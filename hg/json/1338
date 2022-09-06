@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1338",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1338.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightskyblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (49)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1650",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1650.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hotpink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (88)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

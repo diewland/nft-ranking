@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #3516",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3516.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightseagreen"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Jackfruit Ghost (65)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

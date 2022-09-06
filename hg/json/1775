@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1775",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1775.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightpink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (62)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

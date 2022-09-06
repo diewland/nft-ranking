@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #3067",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3067.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tomato"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (55)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
