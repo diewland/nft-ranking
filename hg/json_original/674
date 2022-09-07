@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #674",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/674.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (46)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

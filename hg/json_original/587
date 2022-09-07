@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #587",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/587.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yelllow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (97)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

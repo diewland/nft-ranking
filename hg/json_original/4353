@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #4353",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4353.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deeppink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (90)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

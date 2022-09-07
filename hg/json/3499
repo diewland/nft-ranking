@@ -1,17 +1,1 @@
-{
-  "name": "Hyper Ghost #3499",
-  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3499.png",
-  "description": "",
-  "external_url": "",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Jackfruit Ghost (75)"
-    }
-  ],
-  "compiler": "nft-inator.com"
-}
+{"name": "Hyper Ghost #3499", "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3499.png", "description": "", "external_url": "", "attributes": [{"trait_type": "Background", "value": "Red"}, {"trait_type": "Type", "value": "Jackfruit Ghost"}], "compiler": "nft-inator.com"}

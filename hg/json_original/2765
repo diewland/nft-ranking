@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #2765",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/2765.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (99)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

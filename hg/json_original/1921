@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1921",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1921.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightseagreen"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (28)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

@@ -4,8 +4,8 @@ from pprint import pprint as pp
 
 FROM_ID = 1
 TO_ID = 4998
-INPUT_DIR = 'json'
-OUTPUT_DIR = 'json_cleaned'
+INPUT_DIR = 'json_original'
+OUTPUT_DIR = 'json'
 
 # helper
 def find_index(lst, key, value):
@@ -35,6 +35,9 @@ for token_id in range(FROM_ID, TO_ID+1):
     # clean up type
     new_type = typez.split(" (")[0]
     info["value"] = new_type
+
+    # update engine
+    data['compiler'] = "Jigsaw Engine"
 
     # debug 1
     print("ID#{} [{}] -> [{}]".format(token_id, typez, new_type))

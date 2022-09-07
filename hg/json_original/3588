@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #3588",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3588.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cadetblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (72)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

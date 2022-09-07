@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #94",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/94.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Darkkhaki"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (90)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #4909",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4909.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (97)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

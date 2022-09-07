@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #3633",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3633.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (22)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

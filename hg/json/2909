@@ -1,17 +1,1 @@
-{
-  "name": "Hyper Ghost #2909",
-  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/2909.png",
-  "description": "",
-  "external_url": "",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Deeppink"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Sea Ghost (50)"
-    }
-  ],
-  "compiler": "nft-inator.com"
-}
+{"name": "Hyper Ghost #2909", "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/2909.png", "description": "", "external_url": "", "attributes": [{"trait_type": "Background", "value": "Deeppink"}, {"trait_type": "Type", "value": "Sea Ghost"}], "compiler": "nft-inator.com"}

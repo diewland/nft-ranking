@@ -1,17 +1,1 @@
-{
-  "name": "Hyper Ghost #1997",
-  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1997.png",
-  "description": "",
-  "external_url": "",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Gambling Ghost (49)"
-    }
-  ],
-  "compiler": "nft-inator.com"
-}
+{"name": "Hyper Ghost #1997", "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1997.png", "description": "", "external_url": "", "attributes": [{"trait_type": "Background", "value": "Crimson"}, {"trait_type": "Type", "value": "Gambling Ghost"}], "compiler": "nft-inator.com"}

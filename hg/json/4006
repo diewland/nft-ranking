@@ -1,17 +1,1 @@
-{
-  "name": "Hyper Ghost #4006",
-  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4006.png",
-  "description": "",
-  "external_url": "",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Lightpink"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Gambling Ghost (20)"
-    }
-  ],
-  "compiler": "nft-inator.com"
-}
+{"name": "Hyper Ghost #4006", "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4006.png", "description": "", "external_url": "", "attributes": [{"trait_type": "Background", "value": "Lightpink"}, {"trait_type": "Type", "value": "Gambling Ghost"}], "compiler": "nft-inator.com"}

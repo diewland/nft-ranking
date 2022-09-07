@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #308",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/308.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orangered"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (29)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

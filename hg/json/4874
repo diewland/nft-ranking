@@ -1,17 +1,1 @@
-{
-  "name": "Hyper Ghost #4874",
-  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4874.png",
-  "description": "",
-  "external_url": "",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Cyan"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Mor Phi Ghost (29)"
-    }
-  ],
-  "compiler": "nft-inator.com"
-}
+{"name": "Hyper Ghost #4874", "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4874.png", "description": "", "external_url": "", "attributes": [{"trait_type": "Background", "value": "Cyan"}, {"trait_type": "Type", "value": "Mor Phi Ghost"}], "compiler": "nft-inator.com"}

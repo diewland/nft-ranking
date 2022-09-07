@@ -1,17 +1,1 @@
-{
-  "name": "Hyper Ghost #3142",
-  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3142.png",
-  "description": "",
-  "external_url": "",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Mediumslateblue"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Sea Ghost (89)"
-    }
-  ],
-  "compiler": "nft-inator.com"
-}
+{"name": "Hyper Ghost #3142", "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3142.png", "description": "", "external_url": "", "attributes": [{"trait_type": "Background", "value": "Mediumslateblue"}, {"trait_type": "Type", "value": "Sea Ghost"}], "compiler": "nft-inator.com"}

@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #2037",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/2037.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lightskyblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (44)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

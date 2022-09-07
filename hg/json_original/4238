@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #4238",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/4238.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (33)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

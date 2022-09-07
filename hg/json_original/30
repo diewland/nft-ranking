@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #30",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/30.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deeppink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sea Ghost (72)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

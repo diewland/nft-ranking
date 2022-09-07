@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1513",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1513.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yelllow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mor Phi Ghost (65)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

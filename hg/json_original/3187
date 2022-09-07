@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #3187",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/3187.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cadetblue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (10)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

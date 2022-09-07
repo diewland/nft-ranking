@@ -1,0 +1,17 @@
+{
+  "name": "Hyper Ghost #1490",
+  "image": "ipfs://QmX1SBUGgvGyAtgeThWu5KMvMi2vVWSe4xUdUDGekvXWqF/1490.png",
+  "description": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange Chocolate"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Gambling Ghost (71)"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
