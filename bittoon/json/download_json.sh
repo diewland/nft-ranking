@@ -1,6 +1,7 @@
 # https://www.bittoondao.io/collection1/metadata/1160
 # 20220902 0-1800
 # 20220903 0-2105
+# 20220912 0-2115
 
 for (( i=$1; i<=$2; i++ )); do
   url="https://www.bittoondao.io/collection1/metadata/$i"
